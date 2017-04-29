@@ -2,6 +2,7 @@
 layout: post
 title: Cut The Rope
 permalink: /games/cut-the-rope
+date: 2017-19-4
 ---
 <!-- Place this code where you'd like the game to appear -->
 <div class="miniclip-game-embed" data-game-name="cut-the-rope" data-theme="0" data-width="1024" data-height="576" data-language="en"><a href="http://www.miniclip.com/games/cut-the-rope/">Play Cut the Rope</a></div>
