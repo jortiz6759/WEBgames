@@ -11,4 +11,4 @@ permalink: /games/
 <a href="latest"> Latest Game</a>
 
 
-<a href="cut-the-rope"> Cut The Rope</a> 
+<a href="2017/4/29/Cut-The-Rope.markdown"> Cut The Rope</a> 
