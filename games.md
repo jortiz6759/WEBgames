@@ -8,4 +8,7 @@ permalink: /games/
 </head>
 <h1> Games List </h1>
 
-<a href="latest"> Latest Game</a> 
+<a href="latest"> Latest Game</a>
+
+
+<a href="cut-the-rope"> Cut The Rope</a> 
