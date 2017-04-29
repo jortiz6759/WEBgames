@@ -10,7 +10,7 @@ permalink: /games/
 <a href="latest"> Latest Game</a>
 
 <h1> Games List </h1>
-<p>GameID. GameName<p>
+<p>Format: GameID. GameName<p>
 <ol type="1">
 <li><a href="cuttherope"> Cut The Rope </a></li>
 <li><a href="btd5"> Bloons Tower Defence 5 (BTD5) </a> </li>
