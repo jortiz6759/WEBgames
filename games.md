@@ -8,4 +8,4 @@ permalink: /games/
 </head>
 <h1> Games List </h1>
 
-<a href="google.com">Google</a> 
+<a href="latest"> Latest Game</a> 
