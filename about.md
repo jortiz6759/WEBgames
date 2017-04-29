@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Latest Game
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<!-- Place this code where you'd like the game to appear -->
+<div class="miniclip-game-embed" data-game-name="tanxio" data-theme="0" data-width="1200" data-height="800" data-language="en"><a href="http://www.miniclip.com/games/tanxio/">Play Tanx.io</a></div>
+<p style="text-align:center;"><a href="http://www.miniclip.com/games/tanxio/" target="_blank">Play Tanx.io</a> / More <a href="http://www.miniclip.com/games/genre-1320/" target="_blank">IO games</a></p>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<!-- Insert this code before your </body> tag -->
+<script src="//static.miniclipcdn.com/js/game-embed.js"></script>
