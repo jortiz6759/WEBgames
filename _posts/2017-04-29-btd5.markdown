@@ -3,5 +3,6 @@ layout: post
 title: Bloons Tower Defence 5
 permalink: /games/btd5
 ---
-<h1> Bloons Tower Defence 5 (BTD5)
+<h1> Bloons Tower Defence 5 (BTD5)</h1>
+<p>Build awesome towers, choose your favorite upgrades, hire cool Special Agents, and pop every last invading Bloon in the best ever version of the most popular tower defense series in history.</p>
 <br /><embed src="http://www01.webplayhub.com/wp-content/games/mochi/B/bloons-tower-defense-5.swf" wmode="direct" menu="false" quality="high" width="800" height="620" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
