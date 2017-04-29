@@ -1,3 +1,7 @@
-
+---
+layout: post
+title: Bloons Tower Defence 5
+permalink: /games/btd5
+---
 
 <center>Play <a rel="nofollow" href="http://www.freegaming.de/onlinegames/Tower-Defense-Games/Bloons-Tower-Defense-5.html" >Bloons Tower Defense 5</a><br /><p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="800" height="1140" id="7973421595.swf" align="center"><param name="movie" value="http://www.freegaming.de/components/flash/7973421595.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#e8ffff" /><param name="menu" value="false" /><comment><embed src="http://www.freegaming.de/components/flash/7973421595.swf?affiliate_id=941efa0f97e566c4" quality="high" bgcolor="#e8ffff" width="800" height="1140" name="7973421595.swf" menu="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed><noembed> </noembed></comment></object></p><br />Play free <a rel="nofollow" href="http://www.freegaming.de">Games</a> - a game from <a rel="nofollow" href="http://www.freegaming.de/onlinegames/Tower-Defense-Games.html" title="Tower Defense Games">Tower Defense Games</a></center>
