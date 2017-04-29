@@ -10,9 +10,10 @@ permalink: /games/
 <a href="latest"> Latest Game</a>
 
 <h1> Games List </h1>
+<ol>
+<li><a href="cuttherope"> Cut The Rope </a></li>
 
-<a href="cuttherope"> Cut The Rope </a> 
+<li><a href="btd"> Baloons Tower Defence 5 (BTD5) </a> </li>
 
-<a href="btd"> Baloons Tower Defence 5 (BTD5) </a> 
-
-<a href="tanx.io"> Tanx.io </a> 
+<li><a href="tanx.io"> Tanx.io </a> </li>
+</ol>
