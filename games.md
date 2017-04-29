@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Games
-permalink: /about/
+permalink: /games/
 ---
 <head>
 <link rel="stylesheet" type="text/css" href="games.css">
