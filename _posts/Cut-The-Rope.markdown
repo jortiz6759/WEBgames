@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cut The Rope
-permalink: /games/cut-the-rope
-date: 2017-4-19
+permalink: /games/2017/4/29/Cut-The-Rope.markdown
+date: 2017-4-29
 categories: games
 ---
 <!-- Place this code where you'd like the game to appear -->
