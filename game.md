@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latest Game
-permalink: /about/
+permalink: /latest/
 ---
 <head>
 <link rel="stylesheet" type="text/css" href="games.css">
