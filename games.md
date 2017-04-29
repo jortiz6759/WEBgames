@@ -13,7 +13,7 @@ permalink: /games/
 <ol>
 <li><a href="cuttherope"> Cut The Rope </a></li>
 
-<li><a href="btd"> Baloons Tower Defence 5 (BTD5) </a> </li>
+<li><a href="btd5"> Baloons Tower Defence 5 (BTD5) </a> </li>
 
 <li><a href="tanx.io"> Tanx.io </a> </li>
 </ol>
