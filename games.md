@@ -8,4 +8,4 @@ permalink: /about/
 </head>
 <h1> Games List </h1>
 
-<a href="google.com">here</a> Google
+<a href="google.com">Google</a> 
