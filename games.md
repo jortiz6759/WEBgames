@@ -12,3 +12,4 @@ permalink: /games/
 
 
 <a href="cuttherope"> Cut The Rope TEST</a> 
+{{ site.posts }} 
