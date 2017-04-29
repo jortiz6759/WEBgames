@@ -2,7 +2,7 @@
 layout: post
 title: Cut The Rope
 permalink: /games/cut-the-rope
-date: 2017-19-4
+date: 2017-4-19
 categories: games
 ---
 <!-- Place this code where you'd like the game to appear -->
