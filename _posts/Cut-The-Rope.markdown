@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cut The Rope
-permalink: /games/2017/4/29/Cut-The-Rope.markdown
+permalink: /games/cut-the-rope
 date: 2017-4-29
 categories: games
 ---
