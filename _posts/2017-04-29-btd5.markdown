@@ -4,4 +4,4 @@ title: Bloons Tower Defence 5
 permalink: /games/btd5
 ---
 <h1> Bloons Tower Defence 5 (BTD5)
-<object width="800" height="650"> <param name="movie" value="http://tigerfistgames.weebly.com/uploads/8/9/6/0/8960694/bloons_td_5.swf"> <embed src="http://tigerfistgames.weebly.com/uploads/8/9/6/0/8960694/bloons_td_5.swf" width="800" height="650"> </embed> </object>  </div> <h2 'text-align:center;'><font size="5">To play more games go to<a href="http://www.tigerfistgames.weebly.com/">tigerfistgames.weebly.com!</a>
+<a href="http://www01.webplayhub.com">WebPlayHub</a><br /><embed src="http://www01.webplayhub.com/wp-content/games/mochi/B/bloons-tower-defense-5.swf" wmode="direct" menu="false" quality="high" width="800" height="620" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
