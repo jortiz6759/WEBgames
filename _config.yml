@@ -9,7 +9,7 @@
 title: WEBGames Beta
 email: ...
 description: > # this means to ignore newlines until "baseurl:"
-  Play games, free! With no blocker! We will work even at work or school!
+  Play games, free! Some games will not work on work or school networks. Our games sometimes use cookies. Some games are online, and require a internet connection. Some games are blocked by your browser; on chrome- go to the to right side of the url box, and load unsafe script. NOTE: This will disable secure Htpps connection. We are not responsible for any damage on your electronic device.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Jorti1boomox
