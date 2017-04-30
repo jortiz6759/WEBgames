@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: Cut the Rope
+permalink: /games/cuttherope
+---
+<head>
+<link rel="stylesheet" type="text/css" href="games.css">
+</head>
 
 <!-- Place this code where you'd like the game to appear -->
 <div class="miniclip-game-embed" data-game-name="stealth-sniper" data-theme="0" data-width="680" data-height="510" data-language="en"><a href="http://www.miniclip.com/games/stealth-sniper/">Play Stealth Sniper</a></div>
